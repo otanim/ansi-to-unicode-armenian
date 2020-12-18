@@ -10,14 +10,14 @@ npm install --save ansi-to-unicode-armenian
 ## Usage
 
 ```js
-var ansiToUnicodeConverter = require('ansi-to-unicode-armenian');
+const ansiToUnicodeConverter = require('ansi-to-unicode-armenian');
 
 const ansi = 'µ³ñ»õ ³ßË³ñÑ';
 
 const unicode = ansiToUnicodeConverter.toUnicode(ansi);
 console.log(unicode); //բարեւ աշխարհ
 
-const ansiReverseConverted = ansiToUnicodeConverter.toUnicode(unicode);
+const ansiReverseConverted = ansiToUnicodeConverter.toAnsi(unicode);
 console.log(ansiReverseConverted); //µ³ñ»õ ³ßË³ñÑ
 
 ```
