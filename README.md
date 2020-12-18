@@ -24,4 +24,4 @@ console.log(ansiReverseConverted); //µ³ñ»õ ³ßË³ñÑ
 
 ## Source
 
-[ՀԱՅԵՐԵՆ ՅՈՒՆԻՔՈԴ ՓՈԽԱՐԿԻՉ](http://unicodenow.com/)
+[Armenian Unicode Converter](http://unicodenow.com/)
