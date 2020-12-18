@@ -1,4 +1,4 @@
-ANSI to Unicode Armenian text converter
+ANSI to Unicode Armenian text converter.
 
 ## Install
 

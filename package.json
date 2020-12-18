@@ -15,7 +15,7 @@
     "type": "git",
     "url": "git+https://github.com/otanim/ansi-to-unicode-armenian.git"
   },
-  "license": "MIT",
+  "license": "GPL-3.0",
   "files": [
     "index.js"
   ],
